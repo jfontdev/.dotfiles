@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/jfontdev/nvim
+[submodule "git"]
+	path = git
+	url = https://github.com/jfontdev/git
